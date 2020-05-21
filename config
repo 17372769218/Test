@@ -1,0 +1,6 @@
+Host github.com
+HostName github.com
+User 17372769218
+IdentityFile hp@LAPTOP-1BGPADBU MINGW64 ~/.ssh/id_rsa
+
+
